@@ -38,7 +38,6 @@ I am Hirdesh Garg, a recent Chemical Engineering graduate from [Malviya National
   <a href="https://github.com/ErR0rpj">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ErR0rpj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ErR0rpj&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hirdesh2101.Hirdesh2101)
