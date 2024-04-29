@@ -2,9 +2,10 @@
 
 I am Hirdesh Garg, a recent Chemical Engineering graduate from [Malviya National Institute of technology](https://mnit.ac.in/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/hirdesh-garg-86b6561b1/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hirdesh-garg-86b6561b1/)](https://www.linkedin.com/in/hirdesh-garg-86b6561b1/)
 
 ## ⚡ Technologies
+
 ![Flutter] (https://img.shields.io/badge/flutter-blue?logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
