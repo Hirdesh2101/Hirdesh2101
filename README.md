@@ -29,14 +29,14 @@ I am Hirdesh Garg, a recent Chemical Engineering graduate from [Malviya National
 ## 📊 Github stats
   <br/>
     <a href="https://github.com/ErR0rpj"><img alt="ErR0rpj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hirdesh2101&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/ErR0rpj"><img alt="ErR0rpj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirdesh2101&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Hirdesh2101"><img alt="ErR0rpj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirdesh2101&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
 
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/ErR0rpj">
+  <a href="https://github.com/Hirdesh2101">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ErR0rpj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ErR0rpj&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
